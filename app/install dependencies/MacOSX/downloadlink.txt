@@ -1,0 +1,6 @@
+http://download.oracle.com/otn-pub/java/jdk/7u75-b13/jre-7u75-macosx-x64.dmg
+
+
+or
+
+http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html
